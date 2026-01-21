@@ -1,34 +1,7 @@
 ---
-title: "TestWeb1"
+title: ".docx"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Git init
-
-git remote add origin https://github.com/ebansbach46/TestWeb.git
-git branch -M main
-git push -u origin main
-
--git remote add origin tells your local repository where the GitHub repository is
--git branch -M main renames your local default branch to main (if not already named)
--git push -u origin main pushes your current branch to GitHub and sets it to track the remote branch
-
-ERROR
-
-git status
-git add -A
-git commit -m 'initial commit'
-
-git branch -M main
-git push -u origin main
-
-*.pdf
-*.docx
-
-git status
-git add -A
-git commit -m 'initial project setup'
-git push
